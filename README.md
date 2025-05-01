@@ -27,7 +27,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/g-ai.git
+   git clone git@github.com:Akram30870273/G-AI.git
    cd g-ai
    ```
 
@@ -71,7 +71,7 @@ G-AI is for educational and awareness purposes. AI results are based on patterns
 
 ## 📬 Contact
 
-Questions, partnerships, or ideas? Reach out via Issues or contact [yourname@email.com].
+Questions, partnerships, or ideas? Reach out via Issues or contact akramidriss2001@gmail.com.
 
 ---
 
